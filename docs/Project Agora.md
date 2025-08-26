@@ -1,6 +1,8 @@
-# Project CYVex
+# Project Agora
 
-Code name is a work in progress. CYV has a double meaning… CYV eXperience; "CYV x" Other partners; can be pronounced "civics."
+> From [Wikipedia](https://en.wikipedia.org/wiki/Agora): The agora was a central public space in ancient Greek city-states. The literal meaning of the word "agora" is "gathering place" or "assembly".
+
+This ancient place aligns with the vision of this project: a beautiful, central place for our stakeholders to find everything they need and make the most out of their conference. Project Agora makes for a fitting codename while the project is in development.
 
 ## Context
 
